@@ -940,4 +940,3 @@ i2=Button(rooty,image=img0,bg= "#FEA150",command=des)
 i2.place(x=950,y=630)'''
 
 rooty.mainloop()
-#reference srini cse and 
